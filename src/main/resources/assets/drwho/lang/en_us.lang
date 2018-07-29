@@ -1,0 +1,171 @@
+itemGroup.drWho=Dr Who
+
+# 1960's
+tile.drwho:backwallhella.name='Hell Bent' TARDIS Pipe
+tile.drwho:backwallhellb.name='Hell Bent' TARDIS Panel
+tile.drwho:blowup1963a.name=60's TARDIS Blow-Up Roundel
+tile.drwho:blowup1963b.name=60's TARDIS Blow-Up Roundel
+tile.drwho:blowup1963greya.name=60's TARDIS Blow-Up Roundel (Grey)
+tile.drwho:blowup1963greyb.name=60's TARDIS Blow-Up Roundel (Grey)
+tile.drwho:blowup1966a.name=60's TARDIS Blow-Up Roundel
+tile.drwho:blowup1966b.name=60's TARDIS Blow-Up Roundel
+tile.drwho:blowupasta.name='AST' TARDIS Blow-Up Roundel
+tile.drwho:blowupastb.name='AST' TARDIS Blow-Up Roundel
+tile.drwho:floor1963a.name=60's TARDIS Floor (Blue)
+tile.drwho:floor1963b.name=60's TARDIS Floor (Yellow)
+tile.drwho:floor1963c.name=60's TARDIS Floor (Grey)
+tile.drwho:floor1963d.name=60's TARDIS Floor (White)
+tile.drwho:glass1963.name=60's TARDIS Glass Wall
+tile.drwho:roundel1963a.name=60's TARDIS Roundel (Green)
+tile.drwho:roundel1963b.name=60's TARDIS Roundel (Green)
+tile.drwho:roundel1963c.name=60's TARDIS Roundel (Green)
+tile.drwho:roundel1965a.name=60's TARDIS Roundel (Black)
+tile.drwho:roundel1965b.name=60's TARDIS Roundel (Black)
+tile.drwho:roundel1965c.name=60's TARDIS Roundel (Black)
+tile.drwho:roundel1966a.name=60's TARDIS Roundel (White)
+tile.drwho:roundel1966b.name=60's TARDIS Roundel (White)
+tile.drwho:roundel1966c.name=60's TARDIS Roundel (White)
+tile.drwho:roundelasta.name='AST' TARDIS Roundel
+tile.drwho:roundelastb.name='AST' TARDIS Roundel
+tile.drwho:roundelastc.name='AST' TARDIS Roundel
+tile.drwho:roundelhella.name='Hell Bent' TARDIS Roundel
+tile.drwho:roundelhellb.name='Hell Bent' TARDIS Roundel
+tile.drwho:roundelhellc.name='Hell Bent' TARDIS Roundel
+tile.drwho:totroundela.name='Twice' TARDIS Roundel
+tile.drwho:totroundelb.name='Twice' TARDIS Roundel
+tile.drwho:totroundelc.name='Twice' TARDIS Roundel
+tile.drwho:wall1963.name=60's TARDIS Wall (Green)
+tile.drwho:wall1966.name=60's TARDIS Wall (White)
+tile.drwho:wallast.name='AST' TARDIS Wall
+tile.drwho:wallroundela.name='Hell Bent' Roundel
+tile.drwho:wallroundelb.name='Hell Bent' Roundel
+tile.drwho:wallroundelc.name='Hell Bent' Roundel
+tile.drwho:wallroundeld.name='Hell Bent' Roundel
+tile.drwho:wardrobe1966bottom.name=60's Wardrobe Door
+tile.drwho:wardrobe1966top.name=60's Wardrobe Door
+
+# 1970's
+tile.drwho:ceiling1977.name=Wooden TARDIS Ceiling
+tile.drwho:overhead1976.name='76 TARDIS Overhead Section
+tile.drwho:pillar1977.name=Wooden TARDIS Pillar
+tile.drwho:platform1977.name=Wooedn TARDIS Platform
+tile.drwho:roundel1972a.name=70's TARDIS Roundel (Old)
+tile.drwho:roundel1972b.name=70's TARDIS Roundel (Old)
+tile.drwho:roundel1972c.name=70's TARDIS Roundel (Old)
+tile.drwho:roundel1976a.name=70's TARDIS Roundel (New)
+tile.drwho:roundel1976b.name=70's TARDIS Roundel (New)
+tile.drwho:roundel1976c.name=70's TARDIS Roundel (New)
+tile.drwho:roundel1976alta.name=70's TARDIS Roundel Wall
+tile.drwho:roundel1976altb.name=70's TARDIS Roundel Wall
+tile.drwho:roundel1976altc.name=70's TARDIS Roundel Wall
+tile.drwho:roundel1977.name=Wooden TARDIS Roundel
+tile.drwho:roundeldoor1976.name=70's Roundel Door
+tile.drwho:roundeldoortm.name='Time Monster' Roundel Door
+tile.drwho:roundeltma.name='Time Monster' Roundel
+tile.drwho:roundeltmb.name='Time Monster' Roundel
+tile.drwho:roundeltmc.name='Time Monster' Roundel
+tile.drwho:roundeltmd.name='Time Monster' Roundel
+tile.drwho:slab1977.name=Wooden Slab
+tile.drwho:wall1976.name=70's TARDIS Wall
+tile.drwho:wall1977.name=Wooden TARDIS Wall
+tile.drwho:walltop1977.name=Wooden TARDIS Wall
+tile.drwho:window1977a.name=Wooden TARDIS Window
+tile.drwho:window1977b.name=Wooden TARDIS Window
+tile.drwho:window1977c.name=Wooden TARDIS Window
+
+# 1980's
+tile.drwho:door1980bottom.name=80's Door
+tile.drwho:door1980top.name=80's Door
+tile.drwho:pillar1980.name=TARDIS Pillar (Grey)
+tile.drwho:pillar1983.name=TARDIS Pillar (White)
+tile.drwho:roundel1980a.name=80's TARDIS Roundel (Grey)
+tile.drwho:roundel1980b.name=80's TARDIS Roundel (Grey)
+tile.drwho:roundel1980c.name=80's TARDIS Roundel (Grey)
+tile.drwho:roundel1983a.name=80's TARDIS Roundel (White)
+tile.drwho:roundel1983b.name=80's TARDIS Roundel (White)
+tile.drwho:roundel1983c.name=80's TARDIS Roundel (White)
+tile.drwho:roundel1983alta.name=80's TARDIS Roundel Wall (White)
+tile.drwho:roundel1983altb.name=80's TARDIS Roundel Wall (White)
+tile.drwho:roundelgreya.name=80's TARDIS Roundel Wall (Grey)
+tile.drwho:roundelgreyb.name=80's TARDIS Roundel Wall (Grey)
+tile.drwho:roundelbattlefielda.name=TARDIS 'Battlefield' Roundel
+tile.drwho:roundelbattlefieldb.name=TARDIS 'Battlefield' Roundel
+tile.drwho:roundeldoor1980.name=80's TARDIS Roundel Door (Grey)
+tile.drwho:roundeldoor1983.name=80's TARDIS Roundel Door (White)
+tile.drwho:wall1980.name=80's TARDIS Wall (Grey)
+tile.drwho:wall1983.name=80's TARDIS Wall (White)
+
+# Copper
+tile.drwho:ceiling2010.name=Copper TARDIS Ceiling
+tile.drwho:floor2010.name=Copper TARDIS Floor
+tile.drwho:glass2010.name=Copper TARDIS Glass
+tile.drwho:hardcoral2010.name=Copper TARDIS Coral
+tile.drwho:hexagon2010.name=Copper Hexagon
+tile.drwho:light2010.name=Copper Side Lamp
+tile.drwho:lightcoral2010.name=Copper TARDIS Coral
+tile.drwho:subfloor2010.name=Copper TARDIS Sub-Floor
+tile.drwho:wall2010.name=Copper
+
+# Coral
+tile.drwho:cable2005.name=Coral TARDIS Cables
+tile.drwho:ceiling2005.name=Coral TARDIS Ceiling
+tile.drwho:coral2005.name=Coral
+tile.drwho:floor2005.name=Coral TARDIS Floor
+tile.drwho:hexagon2005a.name=Coral TARDIS Hexagon Large
+tile.drwho:hexagon2005b.name=Coral TARDIS Hexagon Medium
+tile.drwho:hexagon2005c.name=Coral TARDIS Hexagon Small
+tile.drwho:lamp2005off.name=Coral TARDIS Lamp
+tile.drwho:lamp2005on.name=Coral TARDIS Lamp
+tile.drwho:mesh2005.name=Coral TARDIS Mesh
+tile.drwho:pillar2005.name=Coral TARDIS Pillar
+tile.drwho:wall2005.name=Coral TARDIS Wall
+
+# Junk
+tile.drwho:barjunk.name=Junk TARDIS Bar
+tile.drwho:hexagonjunka.name=Junk TARDIS Hexagon
+tile.drwho:hexagonjunkb.name=Junk TARDIS Hexagon
+tile.drwho:pillarjunk.name=Junk TARDIS Pillar
+tile.drwho:roundeljunk.name=Junk TARDIS Roundel
+
+# Master
+tile.drwho:pillarmaster.name=Master TARDIS Pillar
+tile.drwho:roundeldoormaster.name=Master TARDIS Roundel Door
+tile.drwho:roundeldoormastera.name=Master TARDIS Roundel Wall
+tile.drwho:roundeldoormasterb.name=Master TARDIS Roundel Wall
+tile.drwho:roundeldoormasteralta.name=Master TARDIS Roundel
+tile.drwho:roundeldoormasteraltb.name=Master TARDIS Roundel
+tile.drwho:roundeldoormasteraltc.name=Master TARDIS Roundel
+
+# Rani
+tile.drwho:roundelrani.name=Stone TARDIS Roundel
+tile.drwho:wallrani.name=Stone TARDIS Wall
+
+# Toyota
+tile.drwho:ceiling2013.name=Toyota TARDIS Ceiling
+tile.drwho:hexagon2015a.name=Toyota Hexagon
+tile.drwho:hexagon2015b.name=Toyota Hexagon
+tile.drwho:hexagon2015c.name=Toyota Hexagon
+tile.drwho:hexagon2015lighta.name=Toyota Hexagon Lamp
+tile.drwho:hexagon2015lightb.name=Toyota Hexagon Lamp
+tile.drwho:hexagon2015lightc.name=Toyota Hexagon Lamp
+tile.drwho:lamp2013.name=Toyota Ceiling Lamp
+tile.drwho:light2013.name=Toyota Wall Lamp
+tile.drwho:light2013off.name=Toyota Wall Lamp
+tile.drwho:pillar2013.name=Toyota Pillar
+tile.drwho:pipes2013.name=Toyota Doorway Pipes
+tile.drwho:pipes2013sides.name=Toyota Doorway Pipes
+tile.drwho:platform2013.name=Toyota Platform
+tile.drwho:roundel2015.name=Toyota Roundel
+tile.drwho:wall2015.name=Toyota Wall
+tile.drwho:wall2015a.name=Toyota Wall
+tile.drwho:wall2015b.name=Toyota Wall
+tile.drwho:wall2015c.name=Toyota Wall
+
+# War
+tile.drwho:platformwar.name=War TARDIS Platform
+tile.drwho:roundelwara.name=War TARDIS Roundel
+tile.drwho:roundelwarb.name=War TARDIS Roundel
+tile.drwho:roundelwarc.name=War TARDIS Roundel
+tile.drwho:wallwar.name=War TARDIS Wall
+
+tile.drwho:black.name=Void Block
