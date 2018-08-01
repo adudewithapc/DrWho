@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "facing=north": {
+            "model": "whoniverse:faultlocatera",
+            "x": 0
+        },
+        "facing=south": {
+            "model": "whoniverse:faultlocatera",
+            "y": 180
+        },
+        "facing=east": {
+            "model": "whoniverse:faultlocatera",
+            "y": 90
+        },
+        "facing=west": {
+            "model": "whoniverse:faultlocatera",
+            "y": 270
+        }
+    }
+}

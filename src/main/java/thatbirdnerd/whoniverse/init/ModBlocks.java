@@ -14,6 +14,7 @@ import net.minecraftforge.fml.common.registry.GameRegistry.ObjectHolder;
 import net.minecraftforge.registries.IForgeRegistry;
 import thatbirdnerd.whoniverse.Whoniverse;
 import thatbirdnerd.whoniverse.block.BlockNonOpaque;
+import thatbirdnerd.whoniverse.block.BlockNonOpaqueHorizontal;
 import thatbirdnerd.whoniverse.util.Reference;
 
 import javax.annotation.Nullable;
@@ -292,9 +293,6 @@ public class ModBlocks
     @ObjectHolder("wall1983")
     public static final Block WALL_1983 = null;
 
-    @ObjectHolder("faultlocatora")
-    public static final Block FAULT_LOCATOR_A = null;
-
     @ObjectHolder("black")
     public static final Block VOID = null;
 
@@ -303,6 +301,39 @@ public class ModBlocks
 
     @ObjectHolder("pillar2013")
     public static final Block PILLAR_2013 = null;
+
+    @ObjectHolder("faultlocatera")
+    public static final Block FAULT_LOCATER_A = null;
+
+    @ObjectHolder("faultlocaterb")
+    public static final Block FAULT_LOCATER_B = null;
+
+    @ObjectHolder("faultlocaterc")
+    public static final Block FAULT_LOCATER_C = null;
+
+    @ObjectHolder("faultlocaterd")
+    public static final Block FAULT_LOCATER_D = null;
+
+    @ObjectHolder("faultlocatere")
+    public static final Block FAULT_LOCATER_E = null;
+
+    @ObjectHolder("faultlocaterf")
+    public static final Block FAULT_LOCATER_F = null;
+
+    @ObjectHolder("faultlocaterg")
+    public static final Block FAULT_LOCATER_G = null;
+
+    @ObjectHolder("faultlocater69a")
+    public static final Block FAULT_LOCATER_69A = null;
+
+    @ObjectHolder("faultlocater69b")
+    public static final Block FAULT_LOCATER_69B = null;
+
+    @ObjectHolder("faultlocater69c")
+    public static final Block FAULT_LOCATER_69C = null;
+
+    @ObjectHolder("faultlocater69d")
+    public static final Block FAULT_LOCATER_69D = null;
 
     @SubscribeEvent
     public static void registerBlocks(RegistryEvent.Register<Block> event)
@@ -398,10 +429,20 @@ public class ModBlocks
         registerBlock(new Block(Material.ROCK), "roundeldoor1983", forgeRegistry);
         registerBlock(new Block(Material.ROCK), "wall1980", forgeRegistry);
         registerBlock(new Block(Material.ROCK), "wall1983", forgeRegistry);
-        registerBlock(new Block(Material.ROCK), "faultlocatora", forgeRegistry);
         registerBlock(new Block(Material.ROCK), "black",forgeRegistry);
         registerBlock(new BlockNonOpaque(Material.ROCK), "table1963",forgeRegistry);
         registerBlock(new Block(Material.ROCK), "pillar2013", forgeRegistry);
+        registerBlock(new BlockNonOpaqueHorizontal(Material.ROCK), "faultlocatera", forgeRegistry);
+        registerBlock(new BlockNonOpaqueHorizontal(Material.ROCK), "faultlocaterb", forgeRegistry);
+        registerBlock(new BlockNonOpaqueHorizontal(Material.ROCK), "faultlocaterc", forgeRegistry);
+        registerBlock(new BlockNonOpaqueHorizontal(Material.ROCK), "faultlocaterd", forgeRegistry);
+        registerBlock(new BlockNonOpaqueHorizontal(Material.ROCK), "faultlocatere", forgeRegistry);
+        registerBlock(new BlockNonOpaqueHorizontal(Material.ROCK), "faultlocaterf", forgeRegistry);
+        registerBlock(new BlockNonOpaqueHorizontal(Material.ROCK), "faultlocaterg", forgeRegistry);
+        registerBlock(new BlockNonOpaqueHorizontal(Material.ROCK), "faultlocater69a", forgeRegistry);
+        registerBlock(new BlockNonOpaqueHorizontal(Material.ROCK), "faultlocater69b", forgeRegistry);
+        registerBlock(new BlockNonOpaqueHorizontal(Material.ROCK), "faultlocater69c", forgeRegistry);
+        registerBlock(new BlockNonOpaqueHorizontal(Material.ROCK), "faultlocater69d", forgeRegistry);
     }
 
     @SubscribeEvent

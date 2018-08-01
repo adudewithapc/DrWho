@@ -113,10 +113,20 @@ public class ModModelManager
         registerBlockModel(ModBlocks.ROUNDEL_DOOR_1983);
         registerBlockModel(ModBlocks.WALL_1980);
         registerBlockModel(ModBlocks.WALL_1983);
-        registerBlockModel(ModBlocks.FAULT_LOCATOR_A);
         registerBlockModel(ModBlocks.VOID);
         registerBlockModel(ModBlocks.TABLE_1963);
         registerBlockModel(ModBlocks.PILLAR_2013);
+        registerBlockModel(ModBlocks.FAULT_LOCATER_A);
+        registerBlockModel(ModBlocks.FAULT_LOCATER_B);
+        registerBlockModel(ModBlocks.FAULT_LOCATER_C);
+        registerBlockModel(ModBlocks.FAULT_LOCATER_D);
+        registerBlockModel(ModBlocks.FAULT_LOCATER_E);
+        registerBlockModel(ModBlocks.FAULT_LOCATER_F);
+        registerBlockModel(ModBlocks.FAULT_LOCATER_G);
+        registerBlockModel(ModBlocks.FAULT_LOCATER_69A);
+        registerBlockModel(ModBlocks.FAULT_LOCATER_69B);
+        registerBlockModel(ModBlocks.FAULT_LOCATER_69C);
+        registerBlockModel(ModBlocks.FAULT_LOCATER_69D);
     }
 
     private static void registerBlockModel(Block block)
