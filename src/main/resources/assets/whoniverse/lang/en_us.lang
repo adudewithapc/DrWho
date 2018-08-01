@@ -1,0 +1,172 @@
+itemGroup.whoniverse=Whoniverse
+
+# 1960's
+tile.whoniverse:backwallhella.name='Hell Bent' TARDIS Pipe
+tile.whoniverse:backwallhellb.name='Hell Bent' TARDIS Panel
+tile.whoniverse:blowup1963a.name=60's TARDIS Blow-Up Roundel
+tile.whoniverse:blowup1963b.name=60's TARDIS Blow-Up Roundel
+tile.whoniverse:blowup1963greya.name=60's TARDIS Blow-Up Roundel (Grey)
+tile.whoniverse:blowup1963greyb.name=60's TARDIS Blow-Up Roundel (Grey)
+tile.whoniverse:blowup1966a.name=60's TARDIS Blow-Up Roundel
+tile.whoniverse:blowup1966b.name=60's TARDIS Blow-Up Roundel
+tile.whoniverse:blowupasta.name='AST' TARDIS Blow-Up Roundel
+tile.whoniverse:blowupastb.name='AST' TARDIS Blow-Up Roundel
+tile.whoniverse:floor1963a.name=60's TARDIS Floor (Blue)
+tile.whoniverse:floor1963b.name=60's TARDIS Floor (Yellow)
+tile.whoniverse:floor1963c.name=60's TARDIS Floor (Grey)
+tile.whoniverse:floor1963d.name=60's TARDIS Floor (White)
+tile.whoniverse:glass1963.name=60's TARDIS Glass Wall
+tile.whoniverse:roundel1963a.name=60's TARDIS Roundel (Green)
+tile.whoniverse:roundel1963b.name=60's TARDIS Roundel (Green)
+tile.whoniverse:roundel1963c.name=60's TARDIS Roundel (Green)
+tile.whoniverse:roundel1965a.name=60's TARDIS Roundel (Black)
+tile.whoniverse:roundel1965b.name=60's TARDIS Roundel (Black)
+tile.whoniverse:roundel1965c.name=60's TARDIS Roundel (Black)
+tile.whoniverse:roundel1966a.name=60's TARDIS Roundel (White)
+tile.whoniverse:roundel1966b.name=60's TARDIS Roundel (White)
+tile.whoniverse:roundel1966c.name=60's TARDIS Roundel (White)
+tile.whoniverse:roundelasta.name='AST' TARDIS Roundel
+tile.whoniverse:roundelastb.name='AST' TARDIS Roundel
+tile.whoniverse:roundelastc.name='AST' TARDIS Roundel
+tile.whoniverse:roundelhella.name='Hell Bent' TARDIS Roundel
+tile.whoniverse:roundelhellb.name='Hell Bent' TARDIS Roundel
+tile.whoniverse:roundelhellc.name='Hell Bent' TARDIS Roundel
+tile.whoniverse:totroundela.name='Twice' TARDIS Roundel
+tile.whoniverse:totroundelb.name='Twice' TARDIS Roundel
+tile.whoniverse:totroundelc.name='Twice' TARDIS Roundel
+tile.whoniverse:wall1963.name=60's TARDIS Wall (Green)
+tile.whoniverse:wall1966.name=60's TARDIS Wall (White)
+tile.whoniverse:wallast.name='AST' TARDIS Wall
+tile.whoniverse:wallroundela.name='Hell Bent' Roundel
+tile.whoniverse:wallroundelb.name='Hell Bent' Roundel
+tile.whoniverse:wallroundelc.name='Hell Bent' Roundel
+tile.whoniverse:wallroundeld.name='Hell Bent' Roundel
+tile.whoniverse:wardrobe1966bottom.name=60's Wardrobe Door
+tile.whoniverse:wardrobe1966top.name=60's Wardrobe Door
+tile.whoniverse:table1963.name=1963 Table
+
+# 1970's
+tile.whoniverse:ceiling1977.name=Wooden TARDIS Ceiling
+tile.whoniverse:overhead1976.name='76 TARDIS Overhead Section
+tile.whoniverse:pillar1977.name=Wooden TARDIS Pillar
+tile.whoniverse:platform1977.name=Wooedn TARDIS Platform
+tile.whoniverse:roundel1972a.name=70's TARDIS Roundel (Old)
+tile.whoniverse:roundel1972b.name=70's TARDIS Roundel (Old)
+tile.whoniverse:roundel1972c.name=70's TARDIS Roundel (Old)
+tile.whoniverse:roundel1976a.name=70's TARDIS Roundel (New)
+tile.whoniverse:roundel1976b.name=70's TARDIS Roundel (New)
+tile.whoniverse:roundel1976c.name=70's TARDIS Roundel (New)
+tile.whoniverse:roundel1976alta.name=70's TARDIS Roundel Wall
+tile.whoniverse:roundel1976altb.name=70's TARDIS Roundel Wall
+tile.whoniverse:roundel1976altc.name=70's TARDIS Roundel Wall
+tile.whoniverse:roundel1977.name=Wooden TARDIS Roundel
+tile.whoniverse:roundeldoor1976.name=70's Roundel Door
+tile.whoniverse:roundeldoortm.name='Time Monster' Roundel Door
+tile.whoniverse:roundeltma.name='Time Monster' Roundel
+tile.whoniverse:roundeltmb.name='Time Monster' Roundel
+tile.whoniverse:roundeltmc.name='Time Monster' Roundel
+tile.whoniverse:roundeltmd.name='Time Monster' Roundel
+tile.whoniverse:slab1977.name=Wooden Slab
+tile.whoniverse:wall1976.name=70's TARDIS Wall
+tile.whoniverse:wall1977.name=Wooden TARDIS Wall
+tile.whoniverse:walltop1977.name=Wooden TARDIS Wall
+tile.whoniverse:window1977a.name=Wooden TARDIS Window
+tile.whoniverse:window1977b.name=Wooden TARDIS Window
+tile.whoniverse:window1977c.name=Wooden TARDIS Window
+
+# 1980's
+tile.whoniverse:door1980bottom.name=80's Door
+tile.whoniverse:door1980top.name=80's Door
+tile.whoniverse:pillar1980.name=TARDIS Pillar (Grey)
+tile.whoniverse:pillar1983.name=TARDIS Pillar (White)
+tile.whoniverse:roundel1980a.name=80's TARDIS Roundel (Grey)
+tile.whoniverse:roundel1980b.name=80's TARDIS Roundel (Grey)
+tile.whoniverse:roundel1980c.name=80's TARDIS Roundel (Grey)
+tile.whoniverse:roundel1983a.name=80's TARDIS Roundel (White)
+tile.whoniverse:roundel1983b.name=80's TARDIS Roundel (White)
+tile.whoniverse:roundel1983c.name=80's TARDIS Roundel (White)
+tile.whoniverse:roundel1983alta.name=80's TARDIS Roundel Wall (White)
+tile.whoniverse:roundel1983altb.name=80's TARDIS Roundel Wall (White)
+tile.whoniverse:roundelgreya.name=80's TARDIS Roundel Wall (Grey)
+tile.whoniverse:roundelgreyb.name=80's TARDIS Roundel Wall (Grey)
+tile.whoniverse:roundelbattlefielda.name=TARDIS 'Battlefield' Roundel
+tile.whoniverse:roundelbattlefieldb.name=TARDIS 'Battlefield' Roundel
+tile.whoniverse:roundeldoor1980.name=80's TARDIS Roundel Door (Grey)
+tile.whoniverse:roundeldoor1983.name=80's TARDIS Roundel Door (White)
+tile.whoniverse:wall1980.name=80's TARDIS Wall (Grey)
+tile.whoniverse:wall1983.name=80's TARDIS Wall (White)
+
+# Copper
+tile.whoniverse:ceiling2010.name=Copper TARDIS Ceiling
+tile.whoniverse:floor2010.name=Copper TARDIS Floor
+tile.whoniverse:glass2010.name=Copper TARDIS Glass
+tile.whoniverse:hardcoral2010.name=Copper TARDIS Coral
+tile.whoniverse:hexagon2010.name=Copper Hexagon
+tile.whoniverse:light2010.name=Copper Side Lamp
+tile.whoniverse:lightcoral2010.name=Copper TARDIS Coral
+tile.whoniverse:subfloor2010.name=Copper TARDIS Sub-Floor
+tile.whoniverse:wall2010.name=Copper
+
+# Coral
+tile.whoniverse:cable2005.name=Coral TARDIS Cables
+tile.whoniverse:ceiling2005.name=Coral TARDIS Ceiling
+tile.whoniverse:coral2005.name=Coral
+tile.whoniverse:floor2005.name=Coral TARDIS Floor
+tile.whoniverse:hexagon2005a.name=Coral TARDIS Hexagon Large
+tile.whoniverse:hexagon2005b.name=Coral TARDIS Hexagon Medium
+tile.whoniverse:hexagon2005c.name=Coral TARDIS Hexagon Small
+tile.whoniverse:lamp2005off.name=Coral TARDIS Lamp
+tile.whoniverse:lamp2005on.name=Coral TARDIS Lamp
+tile.whoniverse:mesh2005.name=Coral TARDIS Mesh
+tile.whoniverse:pillar2005.name=Coral TARDIS Pillar
+tile.whoniverse:wall2005.name=Coral TARDIS Wall
+
+# Junk
+tile.whoniverse:barjunk.name=Junk TARDIS Bar
+tile.whoniverse:hexagonjunka.name=Junk TARDIS Hexagon
+tile.whoniverse:hexagonjunkb.name=Junk TARDIS Hexagon
+tile.whoniverse:pillarjunk.name=Junk TARDIS Pillar
+tile.whoniverse:roundeljunk.name=Junk TARDIS Roundel
+
+# Master
+tile.whoniverse:pillarmaster.name=Master TARDIS Pillar
+tile.whoniverse:roundeldoormaster.name=Master TARDIS Roundel Door
+tile.whoniverse:roundeldoormastera.name=Master TARDIS Roundel Wall
+tile.whoniverse:roundeldoormasterb.name=Master TARDIS Roundel Wall
+tile.whoniverse:roundeldoormasteralta.name=Master TARDIS Roundel
+tile.whoniverse:roundeldoormasteraltb.name=Master TARDIS Roundel
+tile.whoniverse:roundeldoormasteraltc.name=Master TARDIS Roundel
+
+# Rani
+tile.whoniverse:roundelrani.name=Stone TARDIS Roundel
+tile.whoniverse:wallrani.name=Stone TARDIS Wall
+
+# Toyota
+tile.whoniverse:ceiling2013.name=Toyota TARDIS Ceiling
+tile.whoniverse:hexagon2015a.name=Toyota Hexagon
+tile.whoniverse:hexagon2015b.name=Toyota Hexagon
+tile.whoniverse:hexagon2015c.name=Toyota Hexagon
+tile.whoniverse:hexagon2015lighta.name=Toyota Hexagon Lamp
+tile.whoniverse:hexagon2015lightb.name=Toyota Hexagon Lamp
+tile.whoniverse:hexagon2015lightc.name=Toyota Hexagon Lamp
+tile.whoniverse:lamp2013.name=Toyota Ceiling Lamp
+tile.whoniverse:light2013.name=Toyota Wall Lamp
+tile.whoniverse:light2013off.name=Toyota Wall Lamp
+tile.whoniverse:pillar2013.name=Toyota Pillar
+tile.whoniverse:pipes2013.name=Toyota Doorway Pipes
+tile.whoniverse:pipes2013sides.name=Toyota Doorway Pipes
+tile.whoniverse:platform2013.name=Toyota Platform
+tile.whoniverse:roundel2015.name=Toyota Roundel
+tile.whoniverse:wall2015.name=Toyota Wall
+tile.whoniverse:wall2015a.name=Toyota Wall
+tile.whoniverse:wall2015b.name=Toyota Wall
+tile.whoniverse:wall2015c.name=Toyota Wall
+
+# War
+tile.whoniverse:platformwar.name=War TARDIS Platform
+tile.whoniverse:roundelwara.name=War TARDIS Roundel
+tile.whoniverse:roundelwarb.name=War TARDIS Roundel
+tile.whoniverse:roundelwarc.name=War TARDIS Roundel
+tile.whoniverse:wallwar.name=War TARDIS Wall
+
+tile.whoniverse:black.name=Void Block
