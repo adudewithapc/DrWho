@@ -291,6 +291,9 @@ public class ModBlocks
     @ObjectHolder("wall1983")
     public static final Block WALL_1983 = null;
 
+    @ObjectHolder("faultlocatora")
+    public static final Block FAULT_LOCATOR_A = null;
+
     @SubscribeEvent
     public static void registerBlocks(RegistryEvent.Register<Block> event)
     {
@@ -385,6 +388,7 @@ public class ModBlocks
         registerBlock(new Block(Material.ROCK), "roundeldoor1983", forgeRegistry);
         registerBlock(new Block(Material.ROCK), "wall1980", forgeRegistry);
         registerBlock(new Block(Material.ROCK), "wall1983", forgeRegistry);
+        registerBlock(new Block(Material.ROCK), "faultlocatora", forgeRegistry);
     }
 
     @SubscribeEvent

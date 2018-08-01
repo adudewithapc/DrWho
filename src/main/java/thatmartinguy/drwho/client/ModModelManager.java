@@ -113,6 +113,7 @@ public class ModModelManager
         registerBlockModel(ModBlocks.ROUNDEL_DOOR_1983);
         registerBlockModel(ModBlocks.WALL_1980);
         registerBlockModel(ModBlocks.WALL_1983);
+        registerBlockModel(ModBlocks.FAULT_LOCATOR_A);
     }
 
     private static void registerBlockModel(Block block)
