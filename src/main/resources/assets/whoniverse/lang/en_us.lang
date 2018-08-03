@@ -172,15 +172,15 @@ tile.whoniverse:wallwar.name=War TARDIS Wall
 tile.whoniverse:black.name=Void Block
 
 # Fault locaters
-tile.whoniverse:faultlocatera.name=
-tile.whoniverse:faultlocaterb.name=
-tile.whoniverse:faultlocaterc.name=
-tile.whoniverse:faultlocaterd.name=
-tile.whoniverse:faultlocatere.name=
-tile.whoniverse:faultlocaterf.name=
-tile.whoniverse:faultlocaterg.name=
-tile.whoniverse:faultlocater69a.name=
-tile.whoniverse:faultlocater69b.name=
-tile.whoniverse:faultlocater69c.name=
-tile.whoniverse:faultlocater69d.name=
-tile.whoniverse:faultlocater69e.name=
+tile.whoniverse:faultlocatera.name=1963 Fault Locator
+tile.whoniverse:faultlocaterb.name=1963 Fault Locator
+tile.whoniverse:faultlocaterc.name=1963 Fault Locator
+tile.whoniverse:faultlocaterd.name=1963 Fault Locator
+tile.whoniverse:faultlocatere.name=1963 Fault Locator
+tile.whoniverse:faultlocaterf.name=1963 Fault Locator
+tile.whoniverse:faultlocaterg.name=1963 Fault Locator
+tile.whoniverse:faultlocater69a.name=1969 Fault Locator
+tile.whoniverse:faultlocater69b.name=1969 Fault Locator
+tile.whoniverse:faultlocater69c.name=1969 Fault Locator
+tile.whoniverse:faultlocater69d.name=1969 Fault Locator
+tile.whoniverse:faultlocater69e.name=1969 Fault Locator
